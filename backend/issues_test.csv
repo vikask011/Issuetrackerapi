@@ -1,0 +1,6 @@
+title,description,status
+Login bug,Login fails on invalid password,OPEN
+UI glitch,Button overlaps text,IN_PROGRESS
+Missing title,,OPEN
+Invalid status issue,This has wrong status,WRONG_STATUS
+Performance issue,Page loads slowly,CLOSED
